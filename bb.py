@@ -5,7 +5,7 @@ import re
 
 # ===================== 페이지 설정 ======================
 st.set_page_config(
-    page_title="이호영 자기소개서 슬라이드",
+    page_title="이호영 자기소개서",
     page_icon="🔥",
     layout="wide",
     initial_sidebar_state="expanded"
